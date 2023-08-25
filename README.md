@@ -1,2 +1,2 @@
 # primeiroRepositorio
-esse é um teeste no git e hitbub
+esse é um teste no git e github
